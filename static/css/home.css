@@ -1,0 +1,283 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Hiragino Sans GB", "Microsoft Yahei", SimSun, Arial, "Helvetica Neue", Helvetica;
+  color: #666;
+  background-color: #FFFFFF;
+}
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+#wrapper #fq_home {
+  position: relative;
+  height: auto;
+  min-height: 100%;
+}
+#wrapper #fq_home header {
+  height: 20px;
+}
+#wrapper #fq_home header ul.right_login {
+  margin: 10px 20px 0 0;
+}
+#wrapper #fq_home header ul.right_login li {
+  float: right;
+}
+#wrapper #fq_home header ul.right_login li a {
+  font-size: 14px;
+  color: #6f5c26;
+  line-height: 14px;
+}
+#wrapper #fq_home header ul.right_login li a:hover {
+  color: #F67624;
+}
+#wrapper #fq_home div#content {
+  margin-top: 200px;
+}
+#wrapper #fq_home div#content div#logo {
+  margin-bottom: 35px;
+}
+#wrapper #fq_home div#content div#logo img {
+  display: block;
+  margin: 0 auto;
+}
+#wrapper #fq_home div#content #search_box {
+  border: 0 solid #F67624;
+  height: 90px;
+  width: 670px;
+  margin: 0 auto;
+  position: relative;
+}
+#wrapper #fq_home div#content #search_box .drop_down {
+  float: left;
+  height: 40px;
+  border: 2px solid #F67624;
+  border-right: 1px solid #777777;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+  position: relative;
+}
+#wrapper #fq_home div#content #search_box .drop_down span {
+  color: #777777;
+  line-height: 40px;
+  width: 48px;
+  display: inline-block;
+  position: relative;
+}
+#wrapper #fq_home div#content #search_box .drop_down span i.drop {
+  width: 7px;
+  height: 4px;
+  background: url("../images/home/drop-down.png") no-repeat;
+  position: absolute;
+  bottom: 18px;
+  right: -10px;
+}
+#wrapper #fq_home div#content #search_box .drop_down > ul {
+  position: absolute;
+  width: 91px;
+  height: auto;
+  overflow: hidden;
+  left: -2px;
+  top: 36px;
+  z-index: 100;
+  background-color: #ffffff;
+  border: 2px solid #F67624;
+  border-top: none;
+  display: none;
+}
+#wrapper #fq_home div#content #search_box .drop_down > ul li {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 20px;
+}
+#wrapper #fq_home div#content #search_box .search_input {
+  float: left;
+  position: relative;
+}
+#wrapper #fq_home div#content #search_box .search_input .glass {
+  display: block;
+  background: url("../images/home/magnifying_glass.png") no-repeat;
+  top: 11px;
+  left: 10px;
+  position: absolute;
+  height: 19px;
+  width: 19px;
+}
+#wrapper #fq_home div#content #search_box .search_input .search_form {
+  float: left;
+}
+#wrapper #fq_home div#content #search_box .search_input .search_form input {
+  height: 40px;
+  width: 437px;
+  font-size: 13px;
+  outline: none;
+  line-height: 16px;
+  border: 2px solid #F67624;
+  border-left: 0;
+  padding-left: 35px;
+  color: #333333;
+}
+#wrapper #fq_home div#content #search_box .search_input .search_form button {
+  width: 100px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+  background: #F67624;
+  color: #ffffff;
+  outline: none;
+  font-size: 18px;
+  line-height: 21px;
+  float: right;
+}
+#wrapper #fq_home div#content #search_box ul.hot_search {
+  width: 500px;
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+  left: -10px;
+}
+#wrapper #fq_home div#content #search_box ul.hot_search li {
+  float: left;
+}
+#wrapper #fq_home div#content #search_box ul.hot_search li span {
+  color: #666;
+  font-size: 12px;
+  padding: 0 10px;
+  line-height: 16px;
+}
+#wrapper #fq_home div#content #search_box ul.hot_search li span a {
+  color: #666;
+}
+#wrapper #fq_home div#content #search_box ul.hot_search li span a:hover {
+  color: #F67624;
+}
+#wrapper #fq_home div#content #role {
+  width: 980px;
+  height: 370px;
+  margin: 0 auto;
+  padding-top: 80px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+#wrapper #fq_home div#content #role .role_box {
+  float: left;
+  height: 285px;
+  width: 380px;
+  box-sizing: border-box;
+  position: relative;
+  border: 1px solid #7d9fcc;
+  padding-top: 30px;
+}
+#wrapper #fq_home div#content #role .role_box .title {
+  font-size: 16px;
+  display: inline-block;
+  margin: 0 auto;
+  position: absolute;
+  top: -10px;
+  left: 135px;
+  padding: 0 20px;
+  background: #ffffff;
+}
+#wrapper #fq_home div#content #role .role_box .img_info {
+  overflow: hidden;
+  width: 202px;
+  height: 162px;
+  margin: 0px auto;
+  position: relative;
+}
+#wrapper #fq_home div#content #role .role_box .img_info img {
+  width: 202px;
+  height: 130px;
+}
+#wrapper #fq_home div#content #role .role_box .img_info .round_text {
+  background: #F67624;
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  position: absolute;
+  left: 73px;
+  top: 97px;
+}
+#wrapper #fq_home div#content #role .role_box .img_info .round_text span {
+  position: absolute;
+  color: #FFFFFF;
+}
+#wrapper #fq_home div#content #role .role_box .count {
+  color: #666;
+  text-align: center;
+  margin: 0 auto;
+}
+#wrapper #fq_home div#content #role .role_box .count span {
+  color: #666;
+  font-size: 34px;
+}
+#wrapper #fq_home div#content #role .role_box .hot_info {
+  display: table;
+  margin: 15px auto 0;
+}
+#wrapper #fq_home div#content #role .role_box .hot_info li {
+  float: left;
+  padding: 0 20px 0 0;
+}
+#wrapper #fq_home div#content #role .role_box .hot_info a {
+  color: #666;
+  font-size: 14px;
+}
+#wrapper #fq_home div#content #role .role_box .hot_info a:hover {
+  color: #F67624;
+}
+#wrapper #fq_home div#content #role .role_box:hover {
+  border: 2px solid #7d9fcc;
+  padding-top: 29px;
+}
+#wrapper #fq_home div#content #role .role_box:hover .title {
+  top: -11px;
+  left: 134px;
+}
+#wrapper #fq_home div#content #role .developer {
+  margin-right: 220px;
+}
+#wrapper #fq_home div#content #role .developer .title {
+  color: #7d9fcc;
+}
+#wrapper #fq_home div#content #role .developer .round_text span {
+  left: 7px;
+  top: 18px;
+}
+#wrapper #fq_home div#content #role .supplier {
+  border: 1px solid #F67624;
+}
+#wrapper #fq_home div#content #role .supplier .title {
+  color: #F67624;
+}
+#wrapper #fq_home div#content #role .supplier .round_text span {
+  left: 15px;
+  top: 18px;
+}
+#wrapper #fq_home div#content #role .supplier:hover {
+  border: 2px solid #F67624;
+}
+#wrapper #fq_home footer {
+  width: auto;
+  margin-top: 100px;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+}
+#wrapper #fq_home footer a {
+  color: #666;
+  font-size: 14px;
+  margin-right: 40px;
+}
+#wrapper #fq_home footer a:hover {
+  color: #F67624;
+}
