@@ -3,5 +3,13 @@
     baseUrl: './js',
     dir: 'build',
     mainConfigFile: './assets/js/lib/config.js',
-    name: 'index/index'
+    "modules": [
+        {
+            name: 'index/index'
+        },
+        {
+            name: 'product/product'
+        }
+    ]
+
 })
