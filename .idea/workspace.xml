@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d52d4d2-cd68-4e1d-a699-80d026531937" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.gitignore" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/src/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/src/autoGenerate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/src/build.tpl.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/animate.min.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/brand.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/brand.less" afterPath="" />
@@ -122,8 +127,8 @@
       <file leaf-file-name="app.build.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.build.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -368,12 +373,12 @@
       <workItem from="1505143390557" duration="1839000" />
       <workItem from="1505178839859" duration="1520000" />
       <workItem from="1505180365020" duration="155000" />
-      <workItem from="1505180522065" duration="787000" />
+      <workItem from="1505180522065" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10489000" />
+    <option name="totallyTimeSpent" value="10525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
@@ -682,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.build.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="12" />
           <folding />
         </state>
       </provider>
