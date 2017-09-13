@@ -1,0 +1,20 @@
+{
+  "name": "xiaolin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all": "r.js -o app.build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missxiaolin/require.git"
+  },
+  "author": "xiaolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missxiaolin/require/issues"
+  },
+  "homepage": "https://github.com/missxiaolin/require#readme"
+}

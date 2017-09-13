@@ -2,88 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d52d4d2-cd68-4e1d-a699-80d026531937" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/src/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/src/autoGenerate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/src/build.tpl.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/brand.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/brand.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/color.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/home.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/home.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/product.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/product.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/project-list.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/project-list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/site.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/Branch_of_architecture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/Honorary_certificate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/Mesh-figure.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/Qualification_certificate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/The-drop-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/The_factory.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/The_head_office.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/The_patent_certificate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/Thumb_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/branches.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/collection.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/contrast.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/die.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/die_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/equipment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/figure.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/hot_icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/hot_icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/hot_icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/hot_pic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/live.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/partners.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/pic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/picture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/picture2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/position.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/prise.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/report.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/brand/unPraise.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/controls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/home/developer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/home/drop-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/home/magnifying_glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/home/supplier.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/The-drop-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/The-next-page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/The-picture-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/The-previous-page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/The-sorting-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/The-sorting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/map_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/project/optimal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/Chart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/brand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/dot.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/echarts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/jquery-2.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/project-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/style.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/swiper.animate1.0.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/swiper.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.build.js" afterPath="$PROJECT_DIR$/app.build.js" />
     </list>
     <ignored path="ce2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,32 +22,12 @@
     <favorites_list name="ce2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoGenerate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/src/autoGenerate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.build.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.build.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -150,6 +49,7 @@
       <find>getDirDependence</find>
       <find>baseUrl</find>
       <find>logLevel</find>
+      <find>output</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,6 +70,7 @@
         <option value="$PROJECT_DIR$/tools/boot.js" />
         <option value="$PROJECT_DIR$/app.build.js" />
         <option value="$PROJECT_DIR$/tools/src/build.tpl.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -183,7 +84,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -200,8 +101,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -373,18 +274,21 @@
       <workItem from="1505143390557" duration="1839000" />
       <workItem from="1505178839859" duration="1520000" />
       <workItem from="1505180365020" duration="155000" />
-      <workItem from="1505180522065" duration="823000" />
+      <workItem from="1505180522065" duration="868000" />
+      <workItem from="1505181457589" duration="3000" />
+      <workItem from="1505181462848" duration="457000" />
+      <workItem from="1505266469910" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10525000" />
+    <option name="totallyTimeSpent" value="11174000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26824033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27896994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -422,11 +326,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/src/autoGenerate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tools/boot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -434,23 +358,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build.js" />
     <entry file="file://$PROJECT_DIR$/app.build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,23 +373,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build.js" />
     <entry file="file://$PROJECT_DIR$/tools/boot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,7 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,35 +505,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toolsbuild.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/toolsbuild.js" />
+    <entry file="file://$PROJECT_DIR$/build.js" />
+    <entry file="file://$PROJECT_DIR$/tools/build.js" />
     <entry file="file://$PROJECT_DIR$/build/js/lib/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="62" lean-forward="true" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="4" column="1591" lean-forward="true" selection-start-line="4" selection-start-column="1591" selection-end-line="4" selection-end-column="1591" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,17 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/boot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,15 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="52" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/src/autoGenerate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,14 +540,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="27" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/src/autoGenerate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="97" column="41" lean-forward="false" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/boot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.build.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
