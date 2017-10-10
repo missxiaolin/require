@@ -1,0 +1,10 @@
+
+js/../pages/index/index.js
+----------------
+js/lib/jquery/jquery-2.0.0.min.js
+js/../pages/index/index.js
+
+js/../pages/product/product.js
+----------------
+js/lib/jquery/jquery-2.0.0.min.js
+js/../pages/product/product.js
