@@ -1,2 +1,2 @@
 # require
-require打包
+require r.js打包
